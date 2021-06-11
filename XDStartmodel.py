@@ -1,7 +1,7 @@
 ## coding=utf-8
 ## --------------------------------------------------------------------------------
 ##  "THE BEER-WARE LICENSE" (Revision 43):
-##  <lkrause@gwdg.de> wrote this file. As long as you retain this notice you
+##  <lkrause> wrote this file. As long as you retain this notice you
 ##  can do whatever you want with this stuff. If we meet some day, and you think
 ##  this stuff is worth it, you can buy me a beer in return.
 ##  last change: 28-10-2014
